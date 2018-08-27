@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/admin" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/admin/project" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/api" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/api/project" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/common" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/modules/common/project" />
+            <option value="$PROJECT_DIR$/../../GitLabProject/kanche-vehicle-spec/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
